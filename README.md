@@ -1,0 +1,3 @@
+npm run dev en una terminal dentro de la carpeta server para iniciar el servidor
+npm run serve en una terminal de la carpeta client para iniciar el front
+Aplicacion con pila MEVN subir, editar, eliminar y obtener post de videojuegos con un pequeño sistema de comentarios y puntuaciones de manera local
