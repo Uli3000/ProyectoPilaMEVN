@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkclient"]=self["webpackChunkclient"]||[]).push([[443],{9088:function(n,e,t){t.r(e),t.d(e,{default:function(){return a}});var l=function(){var n=this;n._self._c;return n._m(0)},r=[function(){var n=this,e=n._self._c;return e("div",[e("h1",[n._v("Integrantes:")]),e("ul",[e("li",[n._v("Ulises Alejandro Castro Martinez. 20130027")]),e("li",[n._v("Litzy Cisneros Calderon. 20130018")])])])}],i=t(1001),s={},u=(0,i.Z)(s,l,r,!1,null,null,null),a=u.exports}}]);
+//# sourceMappingURL=about.11698c36.js.map
