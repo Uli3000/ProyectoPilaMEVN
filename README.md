@@ -53,6 +53,8 @@ This project uses the MEVN stack (MongoDB, Express.js, Vue.js, Node.js) to creat
    cd ../client
    npm install
 
+---
+
 ## ▶️ Ejecución de la Aplicación / Running the Application
 
 1. **Iniciar el servidor / Start the server:**
